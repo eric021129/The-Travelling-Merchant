@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43dad67241a66f6468c351cb3e73ecc4, type: 3}
+  m_Name: Blankets
+  m_EditorClassIdentifier: Assembly-CSharp::ProductData
+  itemID: blankets
+  itemName: Blankets
+  price: 15000
+  icon: {fileID: 21300000, guid: 1ed9f6bc24b61494db879df32ba251f3, type: 3}
+  prefab: {fileID: 2107409826236812522, guid: 4dd1e5af8c1f14cc8bca1ff39c45119e, type: 3}
