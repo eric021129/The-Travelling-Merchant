@@ -46,9 +46,8 @@ A solo-developed first-person trading simulation built in Unity (C#).
 | **Item Catalog** | 20+ tradeable items defined as `ScriptableObject` assets for designer-friendly authoring. | [`ItemData.cs`](Assets/Mine/Scripts/ItemData.cs) |
 | **NPC Spawn Manager** | Spawns customers at 5 fixed points with randomized goods demand and speech bubbles. | [`NPCSpawnManager.cs`](Assets/Mine/Scripts/NPCSpawnManager.cs) |
 | **Negotiation UI** | Real-time price haggling between player and NPC, with offer/counter-offer logic. | [`TradingUI.cs`](Assets/Mine/Scripts/TradingUI.cs) |
-| **Interactables** | World objects (Storehouse, Truck, Wife) handle player interaction via a shared interface. | [`Interactable.cs`](Assets/Mine/Scripts/Interactable.cs) |
 | **HUD** | Tuition gauge, currency display, and held-item slot. | [`HUDController.cs`](Assets/Mine/Scripts/HUDController.cs) |
-| **Save System** | Persistent state with serialization handled via [PlayerPrefs / JSON — pick one]. | [`SaveManager.cs`](Assets/Mine/Scripts/SaveManager.cs) |
+
 
 ---
 
